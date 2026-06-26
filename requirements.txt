@@ -1,0 +1,21 @@
+# Web Framework & Server
+fastapi
+uvicorn
+
+# Authentication
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+
+# Document Processing
+pypdf
+docx2txt
+
+# AI & Vector Database
+openai
+sentence-transformers      # For the BGE-M3 model option
+qdrant-client
+
+# Relational Database (Clause Extraction & Metadata)
+psycopg2-binary
+sqlalchemy
